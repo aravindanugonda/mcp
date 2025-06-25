@@ -1,0 +1,15 @@
+[
+  {
+    "id": "context7",
+    "name": "Context7 MCP",
+    "host": "localhost",
+    "port": 8080
+  },
+  {
+    "id": "openai-llm",
+    "name": "OpenAI LLM Host",
+    "host": "localhost",
+    "port": 5005,
+    "protocol": "http"
+  }
+]
